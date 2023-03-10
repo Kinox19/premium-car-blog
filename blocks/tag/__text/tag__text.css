@@ -1,0 +1,11 @@
+.tag__text{
+    margin: 0;
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+    position: absolute;
+    right: 12px;
+    left: 12px;
+    top: 4px;
+    bottom: 2px;
+}

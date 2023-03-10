@@ -1,0 +1,9 @@
+.min-acrticles__right-column{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 30px;
+    row-gap: 30.53px;
+
+    width: 770px;
+}

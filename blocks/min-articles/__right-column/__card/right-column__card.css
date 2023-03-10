@@ -1,0 +1,11 @@
+.right-column__card{
+    width: 370px;
+    height: 265px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}

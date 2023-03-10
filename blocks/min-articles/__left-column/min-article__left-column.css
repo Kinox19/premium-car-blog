@@ -1,0 +1,11 @@
+.min-articles__left-column{
+    width: 370px;
+    height: 560px;
+
+    background-image: url('../../../images/min-article-full-size.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    
+}
