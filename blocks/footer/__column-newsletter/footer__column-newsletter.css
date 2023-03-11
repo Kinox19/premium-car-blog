@@ -1,0 +1,4 @@
+.footer__column_content_newsletter{
+    display: flex;
+    flex-direction: column;
+}

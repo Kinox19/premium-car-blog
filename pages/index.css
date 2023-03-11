@@ -25,8 +25,10 @@
 @import url('../blocks/min-articles/min-articles.css');
 @import url('../blocks/min-articles/__two-columns/min-articles__two-columns.css');
 @import url('../blocks/min-articles/__left-column/min-article__left-column.css');
+@import url('../blocks/min-articles/__left-column/__text/left-column__text.css');
 @import url('../blocks/min-articles/__right-column/min-article__right-column.css');
 @import url('../blocks/min-articles/__right-column/__card/right-column__card.css');
+@import url('../blocks/min-articles/__right-column/__card/__text/card__text.css');
 @import url('../blocks/min-articles/__right-column/__card-image/right-column__card-image.css');
 
 
@@ -34,12 +36,26 @@
 
 
 @import url('../blocks/most-popular/most-popular.css');
+@import url('../blocks/author-date/__most-popular/author-date__most-popular.css');
 @import url('../blocks/most-popular/__heading/most-popular__heading.css');
+@import url('../blocks/most-popular/__card-container/most-popular__card-container.css');
 @import url('../blocks/most-popular/__card/most-popular__card.css');
 @import url('../blocks/most-popular/__pic/most-popular__pic.css');
 @import url('../blocks/most-popular/__card-heading/most-popular__card-heading.css');
 
 
-@import url('');
-@import url('');
-@import url('');
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__columns/footer__columns.css');
+@import url('../blocks/footer/__column-description/footer__column-description.css');
+@import url('../blocks/logo/__footer/logo__footer.css');
+@import url('../blocks/footer/__column-text/footer__column-text.css');
+@import url('../blocks/footer/__column-heading/footer__column-heading.css');
+@import url('../blocks/footer/__social-links/footer__social-links.css');
+@import url('../blocks/footer/__column-recent/footer__column-recent.css');
+@import url('../blocks/footer/__recent-links/footer__recent-links.css');
+@import url('../blocks/footer/__recent-post/footer__recent-post.css');
+@import url('../blocks/footer/__recent-post-text/footer__recent-post-text.css');
+
+
+@import url('../blocks/footer/__column-newsletter/footer__column-newsletter.css');
+@import url('../blocks/footer/__form/footer__form.css');

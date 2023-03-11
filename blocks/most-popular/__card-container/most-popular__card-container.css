@@ -1,0 +1,7 @@
+.most-popular__card-container{
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+
+    margin-top: 27px;
+}

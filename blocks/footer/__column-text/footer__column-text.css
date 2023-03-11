@@ -1,0 +1,13 @@
+.footer__column-text{
+    color: #CECECE;
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    font-style: normal;
+
+    margin: 0;
+
+    margin-top: 28px;
+    margin-bottom: 64px;
+}

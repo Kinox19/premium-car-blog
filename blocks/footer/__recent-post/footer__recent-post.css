@@ -1,0 +1,7 @@
+.footer__recent-post{
+    height: 95px;
+
+    display: flex;
+    flex-direction: row;
+    
+}
