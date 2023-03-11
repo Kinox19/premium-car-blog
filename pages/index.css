@@ -13,7 +13,9 @@
 
 @import url('../blocks/tag/tag.css');
 @import url('../blocks/tag/__text/tag__text.css');
+@import url('../blocks/tag/__text/_most-popular/tag__text_most-popular.css');
 @import url('../blocks/tag/_min-article/tag_min-article.css');
+@import url('../blocks/tag/_most-popular/tag_most-popular.css');
 
 @import url('../blocks/author-date/author-date.css');
 
@@ -31,7 +33,11 @@
 
 
 
-
+@import url('../blocks/most-popular/most-popular.css');
+@import url('../blocks/most-popular/__heading/most-popular__heading.css');
+@import url('../blocks/most-popular/__card/most-popular__card.css');
+@import url('../blocks/most-popular/__pic/most-popular__pic.css');
+@import url('../blocks/most-popular/__card-heading/most-popular__card-heading.css');
 
 
 @import url('');

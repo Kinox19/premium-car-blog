@@ -1,0 +1,9 @@
+.most-popular__pic{
+    width: 270px;
+    height: 195px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
