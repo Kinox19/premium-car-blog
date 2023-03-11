@@ -18,6 +18,7 @@
 @import url('../blocks/tag/_most-popular/tag_most-popular.css');
 
 @import url('../blocks/author-date/author-date.css');
+@import url('../blocks/author-date/_gray/author-date_gray.css');
 
 @import url('../blocks/article-title/article-title.css');
 @import url('../blocks/article-title/_min/article-title_min.css');
@@ -54,8 +55,19 @@
 @import url('../blocks/footer/__column-recent/footer__column-recent.css');
 @import url('../blocks/footer/__recent-links/footer__recent-links.css');
 @import url('../blocks/footer/__recent-post/footer__recent-post.css');
+@import url('../blocks/footer/__recent-post-pic/footer__recent-post-pic.css');
+@import url('../blocks/footer/__recent-post-heading/footer__recent-post-heading.css');
 @import url('../blocks/footer/__recent-post-text/footer__recent-post-text.css');
 
 
 @import url('../blocks/footer/__column-newsletter/footer__column-newsletter.css');
-@import url('../blocks/footer/__form/footer__form.css');
+@import url('../blocks/form/form.css');
+@import url('../blocks/form/__input/form__input.css');
+@import url('../blocks/form/__button/form__button.css');
+
+@import url('../blocks/copyright/copyright.css');
+@import url('../blocks/copyright/__container/copyright__container.css');
+@import url('../blocks/copyright/__text/copyright__text.css');
+@import url('../blocks/copyright/__navigation/copyright__navigation.css');
+@import url('../blocks/copyright/__navigation-list/copyright__navigation-list.css');
+@import url('../blocks/copyright/__navigation-link/copyright__navigation-link.css');

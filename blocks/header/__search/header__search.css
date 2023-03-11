@@ -1,5 +1,8 @@
 .header__search{
     position: absolute;
-
     right: 0;
+}
+
+.header__search:hover{
+    cursor: pointer;
 }

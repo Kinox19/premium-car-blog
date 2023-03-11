@@ -1,7 +1,9 @@
 .footer__recent-post{
-    height: 95px;
-
     display: flex;
     flex-direction: row;
-    
+    margin-top: 28px;
+}
+
+.footer__recent-post:hover{
+    cursor: pointer;
 }

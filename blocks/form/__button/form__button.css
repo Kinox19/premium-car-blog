@@ -1,0 +1,21 @@
+.form__button{
+    margin: 0;
+    background-color: #232323;
+    width: 270px;
+    height: 50px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    border: none;
+    margin-top: 10px;
+}
+
+
+.form__button:hover{
+    cursor: pointer;
+}

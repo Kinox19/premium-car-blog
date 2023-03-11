@@ -1,0 +1,9 @@
+.copyright__navigation-list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+
+    width: 368px;
+}
