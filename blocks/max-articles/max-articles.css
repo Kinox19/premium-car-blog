@@ -1,0 +1,6 @@
+.max-articles{
+    display: flex;
+    flex-basis: 770px;
+    position: relative;
+    flex-direction: column;
+}

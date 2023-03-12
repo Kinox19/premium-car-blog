@@ -1,0 +1,4 @@
+.sidebar-widget{
+    display: flex;
+    flex-basis: 270px;
+}

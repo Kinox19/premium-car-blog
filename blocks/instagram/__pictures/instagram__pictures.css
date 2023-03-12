@@ -1,0 +1,7 @@
+.instagram__pictures{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}

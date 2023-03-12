@@ -1,0 +1,9 @@
+.max-articles__card{
+    position: relative;
+    box-sizing: border-box;
+    height: 575px;
+}
+
+.max-articles__card:not(:first-child){
+    margin-top: 55px;
+}
