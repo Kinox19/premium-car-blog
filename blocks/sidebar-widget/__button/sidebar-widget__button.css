@@ -19,3 +19,7 @@
 .sidebar-widget__button:hover{
     cursor: pointer;
 }
+
+.sidebar-widget__button:first-child{
+    margin-top: 20px;
+}

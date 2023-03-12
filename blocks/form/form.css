@@ -1,4 +1,10 @@
 .form{
     display: flex;
     flex-direction: column;
+
+
+}
+
+.form:last-of-type{
+    margin-top: 50px;
 }

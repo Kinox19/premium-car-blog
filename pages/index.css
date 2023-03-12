@@ -48,14 +48,26 @@
 
 @import url('../blocks/sidebar-widget/sidebar-widget.css');
 @import url('../blocks/sidebar-widget/__heading/sidebar-widget__heading.css');
+@import url('../blocks/sidebar-widget/__heading/_about-us.css');
 @import url('../blocks/sidebar-widget/__button/sidebar-widget__button.css');
 @import url('../blocks/sidebar-widget/__button/_pic/sidebar-widget__button_pic.css');
+
+@import url('../blocks/sidebar-widget/about-us/__info/about-us__info.css');
+@import url('../blocks/sidebar-widget/about-us/__text/about-us__text.css');
+@import url('../blocks/sidebar-widget/__button/sidebar-widget__button_about-us.css');
+
+@import url('../blocks/sidebar-widget/popular-posts/popular-posts.css');
+
 
 @import url('../blocks/instagram/instagram.css');
 @import url('../blocks/instagram/__pictures/instagram__pictures.css');
 @import url('../blocks/instagram/__pic/instagram__pic.css');
 
+@import url('../blocks/sidebar-widget/tags/tags.css');
 
+
+@import url('../blocks/sidebar-widget/newsletter/newsletter.css');
+@import url('../blocks/sidebar-widget/newsletter/__text/newsletter__text.css');
 
 
 
@@ -64,6 +76,9 @@
 @import url('../blocks/author-date/__most-popular/author-date__most-popular.css');
 @import url('../blocks/most-popular/__heading/most-popular__heading.css');
 @import url('../blocks/most-popular/__card-container/most-popular__card-container.css');
+
+@import url('../blocks/most-popular/__card-container/most-popular__card-container_widget.css');
+
 @import url('../blocks/most-popular/__card/most-popular__card.css');
 @import url('../blocks/most-popular/__pic/most-popular__pic.css');
 @import url('../blocks/most-popular/__card-heading/most-popular__card-heading.css');

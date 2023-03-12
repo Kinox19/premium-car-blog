@@ -1,0 +1,6 @@
+.most-popular__card-container_widget{
+    flex-direction: column;
+    row-gap: 40px;
+
+    margin-top: 23px;
+}
