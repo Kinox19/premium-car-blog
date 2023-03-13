@@ -13,6 +13,7 @@
 
 @import url('../blocks/tag/tag.css');
 @import url('../blocks/tag/__text/tag__text.css');
+@import url('../blocks/tag/__text/_gray/tag__text_gray.css');
 @import url('../blocks/tag/__text/_most-popular/tag__text_most-popular.css');
 @import url('../blocks/tag/_min-article/tag_min-article.css');
 @import url('../blocks/tag/_most-popular/tag_most-popular.css');
@@ -64,6 +65,7 @@
 @import url('../blocks/instagram/__pic/instagram__pic.css');
 
 @import url('../blocks/sidebar-widget/tags/tags.css');
+@import url('../blocks/sidebar-widget/tags/__container/tags__container.css');
 
 
 @import url('../blocks/sidebar-widget/newsletter/newsletter.css');
@@ -102,6 +104,7 @@
 @import url('../blocks/footer/__column-newsletter/footer__column-newsletter.css');
 @import url('../blocks/form/form.css');
 @import url('../blocks/form/__input/form__input.css');
+@import url('../blocks/form/__input/_widget/form__input_widget.css');
 @import url('../blocks/form/__button/form__button.css');
 
 @import url('../blocks/copyright/copyright.css');

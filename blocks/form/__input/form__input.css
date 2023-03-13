@@ -16,7 +16,7 @@
 }
 
 .form__input:first-of-type{
-    margin-top: 38px;
+    margin-top: 0;
 }
 
 .form__input:focus{

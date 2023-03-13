@@ -1,11 +1,14 @@
 .tag__text{
+    display: inline-block;
+    background-color: #4A90E2;
     margin: 0;
     font-size: 12px;
     line-height: 16px;
     color: #fff;
-    position: absolute;
-    right: 12px;
-    left: 12px;
-    top: 4px;
-    bottom: 2px;
+    padding: 4px 12px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
 }

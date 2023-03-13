@@ -1,4 +1,6 @@
 .max-articles__text-background{
+    display: flex;
+    flex-direction: column;
     width: 730px;
     height: 250px;
     box-shadow: 0px 3px 10px 0px #0000001A;
